@@ -8,7 +8,8 @@ realtime weather report with additional features such as Air Quality, Sunrise & 
  HTML, CSS, JavaScript, API
 
 ## Demo
-https://chipper-gumption-08ab0d.netlify.app/#/current-location
+https://chipper-gumption-08ab0d.netlify.app/#/current-location 
+ Add Your API KEY to work.
 
 
 ## Screenshots
